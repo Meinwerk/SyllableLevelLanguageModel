@@ -18,6 +18,7 @@ git clone https://github.com/Meinwerk/SyllableLevelLanguageModel.git
 You can also download the data set as a zip file using the following URL:
 ```
 https://github.com/Meinwerk/SyllableLevelLanguageModel/master.zip 
+```
 
 ## Evaluation Data
 ```
