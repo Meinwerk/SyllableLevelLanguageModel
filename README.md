@@ -1,7 +1,7 @@
 ## Syllable Level Language Model
 
 ## Description
-We have proposed embedding derived from syllables and morphemes for the words to improve the performance of language model. Our method achieves state of the art performance in terms of Key Stroke Saving (KSS) w.r.t. to existing device input prediction methods and has been commercialized.
+We have proposed embedding derived from syllables and morphemes for the words to improve the performance of language model. Our method has achieved state of the art performance in terms of Key Stroke Saving (KSS) w.r.t. to existing device input prediction methods and has been commercialized.
 
 ## Data
 The data set which is used for evaluating the model proposed in ""
